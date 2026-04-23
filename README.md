@@ -45,6 +45,6 @@ Digital payment growth and user behavior.
 
 ## 📫 Connect With Me
 
-LinkedIn: ...  
-Portfolio Website: ...  
-GitHub: ...
+LinkedIn: https://www.linkedin.com/in/shaurya-nanda/ 
+Portfolio Website: https://shauryananda3.github.io/
+GitHub: https://github.com/shauryananda3
