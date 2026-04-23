@@ -44,8 +44,14 @@ Help healthcare leadership improve patient outcomes, optimize hospital resources
 
 ## 📷 Screenshots
 
-
 <img width="1562" height="763" alt="image" src="https://github.com/user-attachments/assets/d3f1de3a-a499-493a-9ca9-4041a7fcf1c0" />    
+
+
+
+
+
+
+
 
 
 
