@@ -10,10 +10,10 @@ Hospital KPIs, patient trends, operational performance.
 ### 2. Loan Default Analytics
 Credit risk, borrower behavior, default trends.
 
-### 3. Insurance Analytics Dashboard
+### 3. Insurance Analytics
 Claims metrics, customer insights, policy performance.
 
-### 4. Retail Analytics Dashboard
+### 4. Retail Analytics
 Sales, profitability, discounts, pricing trends.
 
 ### 5. UPI Transactions Analytics
