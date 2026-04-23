@@ -1,4 +1,4 @@
-# 🏥 US Healthcare Analytics Dashboard
+# 🏥 US Healthcare Analytics Report
 
 ## 📌 Project Overview
 Developed a multi-page Power BI report to analyze hospital performance, patient trends, treatment efficiency, and operational KPIs.
