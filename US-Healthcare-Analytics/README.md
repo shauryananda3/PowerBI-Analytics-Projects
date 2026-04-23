@@ -50,7 +50,11 @@ Help healthcare leadership improve patient outcomes, optimize hospital resources
 
 
 
+
+
+
 <img width="1563" height="766" alt="image" src="https://github.com/user-attachments/assets/31ec236d-cd13-46db-b142-4b4f8ddc7494" />
+
 
 
 ## 🚀 Skills Demonstrated
