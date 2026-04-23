@@ -99,11 +99,12 @@ Includes:
 
 ### Hospital Performance Dashboard
 
-![Page 1](screenshots/page1.png)
+![Page 1](screenshots/Page%201.jpg)
+
 
 ### Yearly Trend Dashboard
 
-![Page 2](screenshots/page2.png)
+![Page 2](screenshots/Page%202.jpg)
 
 ---
 
