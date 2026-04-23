@@ -1,89 +1,129 @@
 # 🏥 US Healthcare Hospital Performance & Patient Outcome Analytics
 
-A Power BI analytics report designed to evaluate hospital-level healthcare performance using operational and patient outcome metrics.
+A professional Power BI analytics project designed to evaluate hospital-level performance using operational and patient outcome metrics such as infections, readmissions, admissions, and deaths.
 
-This project helps healthcare stakeholders monitor infections, readmissions, admissions, and mortality trends across hospitals and years.
+This report helps healthcare leaders identify trends, benchmark hospitals, and support data-driven decision-making for improving healthcare efficiency and patient outcomes.
 
 ---
 
 # 📌 Business Objective
 
-Healthcare organizations require visibility into operational efficiency and patient outcomes to improve service quality and optimize resources.
+Healthcare organizations require visibility into operational efficiency and patient care outcomes across hospitals.
 
-This report helps decision-makers:
+This dashboard enables stakeholders to:
 
-- Benchmark hospital performance
-- Track yearly healthcare trends
-- Identify high-risk hospitals
-- Monitor patient outcomes
-- Improve planning and resource allocation
+- Monitor hospital performance KPIs
+- Identify high infection or readmission hospitals
+- Analyze yearly admission trends
+- Benchmark mortality rates across facilities
+- Improve planning through trend forecasting
+- Support executive decision-making using data
 
 ---
 
 # 📊 KPIs Tracked
 
-- Number of Infections
-- Number of Readmissions
-- Number of Admissions
-- Number of Deaths
-- Infection Trends by Year
-- Readmission Trends by Year
-- Mortality Trends by Year
-- Hospital-Level Comparisons
+## Hospital Level Metrics
+
+- Number of Infections by Hospital ID
+- Number of Readmissions by Hospital ID
+- Number of Admissions by Hospital ID
+- Number of Deaths by Hospital ID
+
+## Yearly Trend Metrics
+
+- Number of Infections by Admission Year
+- Number of Readmissions by Admission Year
+- Number of Admissions by Year
+- Number of Deaths by Admission Year
 
 ---
 
 # 🔍 Key Insights
 
-- Certain hospitals consistently showed higher infection counts.
-- Readmission rates varied significantly across hospitals.
-- Admissions fluctuated yearly based on patient demand.
-- Mortality remained stable but increased during peak years.
-- Benchmarking revealed improvement opportunities.
-- Yearly trends supported capacity planning.
+## Hospital Performance Insights
+
+- Certain hospitals consistently reported higher infection counts.
+- Readmissions varied significantly across hospitals, indicating operational differences.
+- Admissions volume remained high across all hospitals.
+- Mortality levels were relatively stable with slight fluctuations.
+- Benchmarking highlights opportunities for targeted improvements.
+
+## Yearly Trend Insights
+
+- Infections dropped initially, then stabilized in later years.
+- Readmissions peaked in select years before declining.
+- Admissions recovered after temporary dips.
+- Mortality increased during high-admission years.
+- Trend analysis supports future capacity planning.
 
 ---
 
-# 🛠 Tools Used
+# 🛠 Tools & Skills Used
 
 - Power BI
 - Power Query
 - DAX
 - Data Modeling
+- Data Cleaning
 - Data Visualization
+- Dashboard Design
+- Business Storytelling
+- KPI Reporting
 
 ---
 
 # 📸 Dashboard Screenshots
 
-## Hospital Performance Dashboard
+## 🏥 Hospital Performance Dashboard
 
-![Hospital Dashboard](screenshots/hospital-performance-dashboard.jpg)
+<p align="center">
+  <img src="screenshots/hospital-performance-dashboard.jpg" width="900">
+</p>
 
----
-
-## Yearly Trend Dashboard
-
-![Yearly Trends](screenshots/yearly-trend-dashboard.jpg)
+Analyzes hospital-level operational KPIs including infections, readmissions, admissions, and mortality across facilities.
 
 ---
 
-# 🎯 What This Project Demonstrates
+## 📈 Yearly Trend Dashboard
+
+<p align="center">
+  <img src="screenshots/yearly-trends-dashboard.jpg" width="900">
+</p>
+
+Tracks yearly healthcare performance trends to support planning, benchmarking, and forecasting.
+
+---
+
+# 🎯 Business Impact
+
+This dashboard helps healthcare leadership:
+
+- Detect hospitals with higher infection or readmission rates
+- Compare performance across multiple hospitals
+- Track yearly healthcare demand changes
+- Improve operational planning and staffing allocation
+- Monitor mortality and patient care quality indicators
+- Use analytics for strategic decision-making
+
+---
+
+# 🚀 What This Project Demonstrates
 
 - Healthcare analytics understanding
 - KPI dashboard creation
-- Multi-page report development
-- Business storytelling with data
+- Multi-page Power BI reporting
+- Business storytelling with visuals
 - Trend analysis
-- Executive reporting
-- Domain-focused analytics
+- Cross-sectional benchmarking
+- Executive reporting mindset
 
 ---
 
-# 👤 Author
+# 🔗 Connect With Me
 
-**Shaurya Nanda**
+- LinkedIn: https://www.linkedin.com/in/shaurya-nanda/
+- Portfolio: https://shauryananda3.github.io/
+- GitHub: https://github.com/shauryananda3
 
-🔗 Portfolio: https://shauryananda3.github.io/  
-🔗 GitHub: https://github.com/shauryananda3  
-🔗 LinkedIn: https://linkedin.com/in/shaurya-nanda
+---
