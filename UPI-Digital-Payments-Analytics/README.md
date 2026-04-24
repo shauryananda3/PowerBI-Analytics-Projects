@@ -1,146 +1,132 @@
-# 💸 UPI Transactions & Digital Payments Analytics Dashboard
+# 💳 UPI Digital Payments Analytics
 
-A premium Power BI dashboard built to analyze UPI transaction behavior across banks, cities, merchants, customer segments, payment methods, and monthly transaction trends.
+A professional Power BI analytics project designed to evaluate transaction trends, monthly payment activity, and account balance movement using UPI digital payment datasets.
 
-This project helps financial institutions, fintech companies, and payment stakeholders monitor digital transaction growth, customer usage patterns, balances, and transaction flow performance.
-
-The report combines operational analytics with executive storytelling for India’s fast-growing digital payments ecosystem.
+This dashboard helps fintech teams, banks, payment companies, and business leaders understand transaction behavior, monitor payment growth, and support data-driven financial decisions.
 
 ---
 
 # 📌 Business Objective
 
-UPI platforms and payment stakeholders require visibility into:
+Digital payment organizations require visibility into transaction volume, balance movement, and customer payment behavior to optimize growth strategy and improve operational efficiency.
 
-- Monthly transaction trends
-- Bank-to-bank transfer behavior
-- City-wise payment activity
-- Merchant transaction performance
-- Device and channel usage
-- Customer segmentation insights
-- Balance movement patterns
-- Digital payment growth opportunities
+This dashboard enables stakeholders to:
 
-This dashboard supports smarter product, growth, and operational decisions.
+- Analyze monthly UPI transaction activity  
+- Monitor account balance movement  
+- Identify payment growth trends  
+- Evaluate transaction seasonality patterns  
+- Improve customer usage insights  
+- Support strategic decisions using analytics
 
 ---
 
-# 📊 Dashboard Pages
+# 📊 Dashboard Coverage
 
-## Page 1: Monthly UPI Transaction Trends
+## Payments Performance Analytics
 
-Executive dashboard covering:
+- Monthly transactions dashboard  
+- Transaction trend monitoring  
+- Payment activity patterns  
+- Time-based performance analysis  
+- Growth visibility reporting  
 
-- Transactions by Month (2024)
-- Amount trend analysis
-- Balance trend analysis
-- Dynamic visual switching
-- Multi-filter transaction exploration
+## Financial Monitoring Insights
 
----
-
-## Page 2: Bank, City & Balance Summary
-
-Operational matrix dashboard covering:
-
-- City-wise transaction activity
-- Currency-level reporting
-- Monthly amount movement
-- Remaining balance tracking
-- Multi-bank transfer analytics
+- Bank balance summary dashboard  
+- Account movement analysis  
+- Cash flow visibility  
+- Usage trend insights  
+- Financial behavior tracking  
 
 ---
 
-# 📈 KPIs Tracked
+# 🔍 Key Insights
 
-- Total Transactions
-- Monthly Transaction Volume
-- Transaction Amount
-- Remaining Balance
-- City-wise Transactions
-- Sending Bank Activity
-- Receiving Bank Activity
-- Merchant Transactions
-- Payment Method Usage
-- Device Type Usage
+## Transaction Insights
 
----
+- Monthly payment activity showed recurring trend patterns.  
+- Digital adoption supported increasing transaction behavior.  
+- Seasonal movement influenced monthly volumes.  
+- Dashboard visibility improved performance monitoring.  
+- Transaction trends support future growth planning.
 
-# 🔍 Key Insights Generated
+## Financial Insights
 
-- Transaction volumes peaked during selected months, indicating seasonal payment behavior.
-- Certain cities contributed higher transaction value than others.
-- Bank transfer patterns highlighted concentration among key institutions.
-- Mobile device channels likely dominated digital payment activity.
-- Merchant activity can reveal top commercial usage categories.
-- Balance movement trends can support liquidity monitoring.
-
----
-
-# 💼 Business Impact
-
-This dashboard can help fintech and banking leadership:
-
-- Improve customer payment experience
-- Monitor UPI growth trends
-- Optimize merchant partnerships
-- Identify high-growth cities
-- Strengthen transaction operations
-- Support fraud/risk monitoring foundations
-- Drive digital payment strategy
+- Balance movement reflected customer payment cycles.  
+- Strong digital usage improved ecosystem engagement.  
+- Monitoring cash movement supports planning decisions.  
+- Payment analytics improve customer understanding.  
+- Data-backed insights enhance fintech strategy.
 
 ---
 
 # 🛠 Tools & Skills Used
 
-- Power BI
-- Power Query
-- DAX
-- Data Modeling
-- Financial Analytics
-- Fintech Reporting
-- KPI Dashboard Design
-- Trend Analysis
-- Interactive Filtering
-- Data Visualization
+- Power BI  
+- Power Query  
+- DAX  
+- Data Modeling  
+- Fintech Analytics  
+- Digital Payments Analytics  
+- Data Cleaning  
+- Dashboard Design  
+- KPI Reporting  
+- Business Storytelling  
 
 ---
 
-# 📷 Dashboard Screenshots
+# 📸 Dashboard Screenshots
 
-## Monthly Transaction Trend Dashboard
+## 💳 Monthly Transactions Dashboard
 
-![UPI Trends](screenshots/monthly-transactions-dashboard.jpg)
+<p align="center">
+  <img src="screenshots/monthly-transactions-dashboard.jpg" width="900">
+</p>
 
----
-
-## Bank & Balance Summary Dashboard
-
-![UPI Matrix](screenshots/bank-balance-summary-dashboard.jpg)
+Tracks monthly UPI payment activity, transaction movement, and growth trends.
 
 ---
 
-# 🎯 What This Project Demonstrates
+## 🏦 Bank Balance Summary Dashboard
 
-- Fintech analytics understanding
-- Digital payments reporting
-- Transaction trend analysis
-- Multi-dimensional filtering
-- Executive dashboard storytelling
-- Power BI visualization skills
-- KPI-driven business reporting
+<p align="center">
+  <img src="screenshots/bank-balance-summary-dashboard.jpg" width="900">
+</p>
+
+Provides visibility into account balances, movement trends, and financial monitoring.
 
 ---
 
-# 🔗 Portfolio Links
+# 🎯 Business Impact
 
-**GitHub Portfolio:**  
-https://github.com/shauryananda3
+This dashboard helps fintech businesses:
 
-**Main Analytics Portfolio:**  
-https://github.com/shauryananda3/PowerBI-Analytics-Projects
+- Improve payment growth tracking  
+- Understand customer transaction behavior  
+- Monitor account movement trends  
+- Support financial planning decisions  
+- Enhance digital payment strategy  
+- Enable data-driven business growth
 
-**Personal Portfolio Website:**  
-https://shauryananda3.github.io/
+---
+
+# 🚀 What This Project Demonstrates
+
+- Fintech analytics understanding  
+- KPI dashboard creation  
+- Payment trend reporting  
+- Executive reporting mindset  
+- Business storytelling with visuals  
+- Financial analytics capability  
+- Strategic decision support
+
+---
+
+# 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/shaurya-nanda/  
+- Portfolio: https://shauryananda3.github.io/  
+- GitHub: https://github.com/shauryananda3
 
 ---
