@@ -28,7 +28,7 @@ This dashboard enables stakeholders to:
 - Runs scored overview  
 - Strike rate analysis  
 - Highest score comparison  
-- Boundary statistics (4s / 6s)  
+- Boundary statistics  
 - Average performance insights  
 
 ## Bowling Analytics
@@ -36,7 +36,7 @@ This dashboard enables stakeholders to:
 - Wickets performance  
 - Economy rate analysis  
 - Best bowling figures  
-- Strike rate comparison  
+- Bowling averages  
 - Match contribution trends  
 
 ## Fielding Analytics
@@ -53,19 +53,19 @@ This dashboard enables stakeholders to:
 
 ## Player Performance Insights
 
-- Specialist players outperformed in their primary disciplines.  
-- Batting strike rate and consistency varied significantly by player.  
-- Bowling economy and wicket-taking ability highlighted match impact.  
-- Fielding metrics reflected valuable support contributions.  
+- Specialist players excelled in their core disciplines.  
+- Batting strike rate and consistency varied significantly.  
+- Bowling efficiency highlighted match-winning impact.  
+- Fielding metrics reflected valuable support contribution.  
 - Multi-skill comparisons supported balanced team selection.
 
 ## Strategic Insights
 
-- All-rounders provided stronger overall value.  
-- Boundary scoring metrics highlighted aggressive batters.  
-- Efficient bowlers created defensive advantages.  
-- Strong fielders improved team efficiency.  
-- Historical data supports future squad planning.
+- All-rounders created stronger squad balance.  
+- Aggressive batters improved scoring acceleration.  
+- Efficient bowlers strengthened defense.  
+- Strong fielders improved overall team efficiency.  
+- Historical data supported smarter future planning.
 
 ---
 
@@ -86,33 +86,33 @@ This dashboard enables stakeholders to:
 
 # 📸 Dashboard Screenshots
 
-## 🏏 Batting Statistics Dashboard
+## 🏏 Batting Performance Dashboard
 
 <p align="center">
-  <img src="screenshots/batting-statistics-dashboard.jpg" width="900">
+  <img src="screenshots/batting-performance-dashboard.jpg" width="900">
 </p>
 
 Analyzes runs, strike rate, boundaries, averages, and batting consistency.
 
 ---
 
-## 🎯 Bowling Statistics Dashboard
+## 🎯 Bowling Performance Dashboard
 
 <p align="center">
-  <img src="screenshots/bowling-statistics-dashboard.jpg" width="900">
+  <img src="screenshots/bowling-performance-dashboard.jpg" width="900">
 </p>
 
-Highlights wickets, economy, bowling strike rate, and match impact metrics.
+Highlights wickets, economy, bowling efficiency, and match impact metrics.
 
 ---
 
-## 🧤 Fielding Statistics Dashboard
+## 🧤 Fielding Performance Dashboard
 
 <p align="center">
-  <img src="screenshots/fielding-statistics-dashboard.jpg" width="900">
+  <img src="screenshots/fielding-performance-dashboard.jpg" width="900">
 </p>
 
-Tracks catches, stumpings, dismissals, and fielding efficiency.
+Tracks catches, stumpings, dismissals, and fielding effectiveness.
 
 ---
 
