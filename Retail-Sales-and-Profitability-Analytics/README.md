@@ -1,142 +1,132 @@
-# 👔 Fashion Retail Sales, Pricing & Brand Performance Analytics
+# 🛍️ Retail Sales & Profitability Analytics
 
-A premium Power BI dashboard built to analyze menswear retail brand performance across pricing, discounts, profitability, and product portfolio metrics.
+A professional Power BI analytics project designed to evaluate retail sales performance, product profitability, and brand contribution using commercial sales datasets.
 
-This project helps retail stakeholders understand which brands drive revenue, which discount strategies impact margins, and where pricing opportunities exist for growth.
-
-The report combines business storytelling with executive-level KPI reporting using a clean branded dashboard design.
+This dashboard helps business leaders, category managers, and retail analysts identify top-performing brands, improve product strategy, and maximize revenue growth through data-driven insights.
 
 ---
 
 # 📌 Business Objective
 
-Retail companies need visibility into:
+Retail organizations require visibility into sales trends, brand performance, and profitability drivers to optimize merchandising and improve commercial outcomes.
 
-- High-performing brands
-- Discount-heavy brands
-- Profitability leaders and laggards
-- Average selling price trends
-- Product portfolio concentration
-- Pricing optimization opportunities
+This dashboard enables stakeholders to:
 
-This dashboard enables management teams to take data-driven merchandising and pricing decisions.
-
----
-
-# 📊 Dashboard Pages
-
-## Page 1: Executive Landing Page
-
-Interactive brand showcase page featuring:
-
-- Available brand portfolio
-- Premium visual navigation
-- Brand filtering experience
-- Executive presentation layout
+- Analyze sales performance by brand and category  
+- Identify top revenue contributors  
+- Compare profitability across products  
+- Monitor business growth trends  
+- Improve pricing and assortment strategy  
+- Support data-driven retail decisions
 
 ---
 
-## Page 2: Brand Performance Dashboard
+# 📊 Dashboard Coverage
 
-Core analytics page covering:
+## Retail Performance Analytics
 
-- Top 5 Brands by Average Discount
-- Top 5 Brands by Average Profit %
-- Bottom 5 Brands by Average Profit %
-- Top 5 Brands by Highest Average Sales Price
-- Top 5 Brands by Number of Items
-- Brand contribution mix
-- Average Discount KPI
-- Average Sales Price KPI
+- Brand-wise sales contribution  
+- Revenue and profit trends  
+- Product category performance  
+- Comparative brand analysis  
+- Commercial KPI tracking  
 
----
+## Strategic Insights
 
-# 📈 KPIs Tracked
-
-- Average Discount %
-- Average Profit %
-- Average Sales Price
-- Number of Products by Brand
-- High Margin Brands
-- Low Margin Brands
-- Premium Price Brands
-- Discount Heavy Brands
+- High-performing brand identification  
+- Product portfolio optimization  
+- Sales opportunity analysis  
+- Growth trend visibility  
+- Profitability benchmarking  
 
 ---
 
-# 🔍 Key Insights Generated
+# 🔍 Key Insights
 
-- Certain brands offered aggressive discounts while maintaining sales volume.
-- Premium brands delivered higher average selling prices with lower item count.
-- Some brands showed weak profitability despite strong presence.
-- Brand assortment concentration highlighted dependence on a few key labels.
-- Pricing opportunities existed across mid-tier brands.
-- Margin leakage identified in bottom-performing brands.
+## Sales Insights
 
----
+- Certain brands generated stronger revenue contribution.  
+- Product mix significantly influenced profitability.  
+- Top categories delivered consistent commercial performance.  
+- Dashboard visibility supports faster decisions.  
+- Growth opportunities existed in underperforming segments.
 
-# 💼 Business Impact
+## Strategic Insights
 
-This dashboard can help retail leadership:
-
-- Optimize pricing strategy
-- Improve gross margins
-- Reduce excessive discounting
-- Strengthen premium brand positioning
-- Improve inventory mix planning
-- Focus marketing on profitable brands
+- Brand benchmarking improves portfolio planning.  
+- Pricing decisions can influence margin performance.  
+- Strong assortment mix drives sales growth.  
+- Business visibility supports leadership planning.  
+- Data-backed insights improve retail strategy.
 
 ---
 
 # 🛠 Tools & Skills Used
 
-- Power BI
-- Power Query
-- DAX
-- Data Modeling
-- KPI Dashboard Design
-- Pricing Analytics
-- Profitability Analysis
-- Data Visualization
-- Retail Analytics
+- Power BI  
+- Power Query  
+- DAX  
+- Data Modeling  
+- Retail Analytics  
+- Data Cleaning  
+- Dashboard Design  
+- KPI Reporting  
+- Business Storytelling  
+- Commercial Analysis  
 
 ---
 
-# 📷 Dashboard Screenshots
+# 📸 Dashboard Screenshots
 
-## Executive Landing Page
+## 🛍️ Retail Analytics Landing Page
 
-![Landing Page](screenshots/landing-page.jpg)
+<p align="center">
+  <img src="screenshots/landing-page.jpg" width="900">
+</p>
 
----
-
-## Brand Performance Dashboard
-
-![Retail Dashboard](screenshots/brand-performance-dashboard.jpg)
+Professional landing interface designed for navigation and business presentation.
 
 ---
 
-# 🎯 What This Project Demonstrates
+## 📊 Brand Performance Dashboard
 
-- Retail domain analytics understanding
-- Pricing & discount intelligence
-- Margin optimization reporting
-- Executive dashboard storytelling
-- Power BI visual design skills
-- KPI driven decision support
-- Commercial business analytics
+<p align="center">
+  <img src="screenshots/brand-performance-dashboard.jpg" width="900">
+</p>
+
+Analyzes brand contribution, sales trends, revenue mix, and profitability performance.
 
 ---
 
-# 🔗 Portfolio Links
+# 🎯 Business Impact
 
-**GitHub Portfolio:**  
-https://github.com/shauryananda3
+This dashboard helps retail teams:
 
-**Main Analytics Portfolio:**  
-https://github.com/shauryananda3/PowerBI-Analytics-Projects
+- Improve brand strategy  
+- Identify growth opportunities  
+- Optimize product mix  
+- Improve pricing decisions  
+- Track profitability trends  
+- Enable data-driven commercial planning
 
-**Personal Portfolio Website:**  
-https://shauryananda3.github.io/
+---
+
+# 🚀 What This Project Demonstrates
+
+- Retail analytics understanding  
+- KPI dashboard creation  
+- Commercial performance reporting  
+- Executive reporting mindset  
+- Business storytelling with visuals  
+- Profitability analytics capability  
+- Strategic decision support
+
+---
+
+# 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/shaurya-nanda/  
+- Portfolio: https://shauryananda3.github.io/  
+- GitHub: https://github.com/shauryananda3
 
 ---
