@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Business%20Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Portfolio-11%20Projects-0A66C2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Portfolio-%20Projects-0A66C2?style=for-the-badge">
   <img src="https://img.shields.io/badge/Open%20to-Data%20Roles-success?style=for-the-badge">
 </p>
 
