@@ -1,23 +1,23 @@
-# 💳 Loan Default Risk, Borrower Behavior & Credit Analytics
+# 💳 Loan Risk & Default Analytics
 
-A professional Power BI analytics project designed to evaluate loan default behavior, borrower demographics, income segments, credit score profiles, and yearly lending risk trends.
+A professional Power BI analytics project designed to evaluate borrower behavior, credit risk patterns, and loan default trends using customer financial and demographic indicators.
 
-This dashboard helps lenders, banks, NBFCs, and fintech organizations identify high-risk borrowers, optimize credit strategy, and improve loan portfolio performance through data-driven decisions.
+This report helps lenders, banks, and financial institutions identify high-risk applicants, monitor portfolio health, and support smarter lending decisions through data-driven insights.
 
 ---
 
 # 📌 Business Objective
 
-Financial institutions need strong visibility into borrower risk patterns, repayment behavior, and lending trends.
+Financial institutions need visibility into borrower profiles and repayment risk to minimize defaults and optimize lending performance.
 
-This report enables stakeholders to:
+This dashboard enables stakeholders to:
 
-- Monitor default rates across borrower segments
-- Analyze credit score risk categories
-- Evaluate loan distribution by purpose
-- Track yearly loan growth and default trends
-- Segment borrowers by age, income, employment, and education
-- Improve underwriting and lending strategy
+- Identify high-risk borrower segments  
+- Monitor default patterns across demographics  
+- Analyze loan distribution by income and employment type  
+- Evaluate creditworthiness indicators  
+- Improve lending strategies and approval decisions  
+- Support portfolio risk management using analytics
 
 ---
 
@@ -25,124 +25,109 @@ This report enables stakeholders to:
 
 ## Loan Portfolio Metrics
 
-- Loan Amount by Purpose
-- Average Loan Amount by Age Group
-- Median Loan Amount by Credit Score Category
-- Number of Loans by Education Type
-- Total Loan Value by Credit Score Segment
+- Total Loan Applicants  
+- Total Approved Loans  
+- Total Defaulted Accounts  
+- Default Rate Percentage  
+- Average Loan Amount  
+- Average Annual Income  
 
 ## Borrower Risk Metrics
 
-- Default Rate % by Employment Type
-- Default Rate % by Year
-- YOY Default Loan Change by Year
-- YOY Loan Amount Change by Year
+- Default Rate by Employment Type  
+- Default Rate by Home Ownership  
+- Default Rate by Marital Status  
+- Default Rate by Education Level  
+- Loan Status by Purpose Category  
 
-## Customer Segmentation Metrics
+## Trend & Segment Metrics
 
-- Income Bracket Analysis
-- Employment Type Analysis
-- Marital Status Analysis
-- Age Group Loan Distribution
-- Credit Score Bin Analysis
+- Loans by Age Group  
+- Loans by Income Band  
+- Loans by Credit History  
+- Defaults by Region / Segment  
 
 ---
 
 # 🔍 Key Insights
 
-## Credit Risk Insights
+## Borrower Insights
 
-- Unemployed borrowers showed the highest default rate percentage.
-- Full-time employed applicants had the lowest default risk.
-- Default trends peaked in select years before normalizing.
-- Very low credit score segments carried elevated risk.
+- Borrowers with lower income levels showed higher default probability.  
+- Certain employment categories demonstrated stronger repayment behavior.  
+- Customers with stable housing ownership had lower default rates.  
+- Education level and marital status showed noticeable lending patterns.  
+- Some loan purposes carried higher repayment risk than others.
 
-## Borrower Behavior Insights
+## Portfolio Insights
 
-- Home and Business loans represented major loan categories.
-- Adults and middle-aged applicants received higher average loan amounts.
-- High income customers contributed the largest share of total loan value.
-- Borrower demographics significantly impacted portfolio composition.
-
-## Trend Insights
-
-- Loan portfolio growth fluctuated year over year.
-- Default loan changes showed volatility across years.
-- Certain years experienced stronger lending growth followed by correction.
-- Risk trends support dynamic credit policy planning.
+- Default rates were concentrated within specific borrower segments.  
+- Mid-sized loan amounts represented the largest share of the portfolio.  
+- Younger borrower groups showed higher application volumes.  
+- Strong credit history correlated with lower defaults.  
+- Risk segmentation supports better underwriting strategies.
 
 ---
 
 # 🛠 Tools & Skills Used
 
-- Power BI
-- Power Query
-- DAX
-- Data Modeling
-- Data Cleaning
-- Financial Analytics
-- Risk Analytics
-- Customer Segmentation
-- Dashboard Design
-- Executive Reporting
+- Power BI  
+- Power Query  
+- DAX  
+- Data Modeling  
+- Financial Analytics  
+- Data Cleaning  
+- Risk Visualization  
+- Dashboard Design  
+- Business Storytelling  
+- KPI Reporting
 
 ---
 
 # 📸 Dashboard Screenshots
 
-## 💼 Loan Default & Portfolio Overview
+## 💳 Loan Portfolio Overview Dashboard
 
 <p align="center">
-  <img src="screenshots/loan-overview-dashboard.jpg" width="900">
+  <img src="screenshots/loan-portfolio-overview.jpg" width="900">
 </p>
 
-Tracks loan purpose distribution, employment risk patterns, age-based loan allocation, and yearly default trends.
+Provides a complete view of loan applications, approvals, defaults, and borrower segments.
 
 ---
 
-## 👥 Applicant Demographics & Financial Profile
+## 📈 Credit Risk Analysis Dashboard
 
 <p align="center">
-  <img src="screenshots/applicant-demographics-dashboard.jpg" width="900">
+  <img src="screenshots/credit-risk-analysis.jpg" width="900">
 </p>
 
-Analyzes borrower demographics, education segments, marital profiles, and credit score categories.
-
----
-
-## 📈 Financial Risk Metrics
-
-<p align="center">
-  <img src="screenshots/financial-risk-metrics-dashboard.jpg" width="900">
-</p>
-
-Measures YOY loan growth, default volatility, income bracket exposure, and lending concentration.
+Highlights default trends across customer profiles, income groups, and employment categories.
 
 ---
 
 # 🎯 Business Impact
 
-This dashboard helps lending institutions:
+This dashboard helps financial institutions:
 
-- Detect high-risk borrower groups early
-- Improve loan approval strategy
-- Reduce probability of defaults
-- Optimize portfolio diversification
-- Align pricing with borrower risk
-- Improve collections prioritization
-- Support regulatory and management reporting
+- Reduce loan default risk through better screening  
+- Improve lending approval quality  
+- Segment customers based on repayment probability  
+- Optimize portfolio profitability  
+- Strengthen underwriting decisions with analytics  
+- Monitor portfolio health proactively
 
 ---
 
 # 🚀 What This Project Demonstrates
 
-- BFSI / Lending analytics understanding
-- Credit risk reporting
-- Portfolio analytics
-- Multi-page Power BI dashboarding
-- Customer segmentation analytics
-- Executive storytelling with visuals
-- Business decision support reporting
+- Financial analytics understanding  
+- Credit risk reporting skills  
+- KPI dashboard creation  
+- Customer segmentation analysis  
+- Trend analysis for lending decisions  
+- Executive reporting mindset  
+- Business storytelling with data
 
 ---
 
