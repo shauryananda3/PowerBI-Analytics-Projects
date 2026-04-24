@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <b>Shaurya Nanda | Business Analyst → Data Analyst</b>
+  <b>Shaurya Nanda | Analytics & Business Intelligence Professional</b>
 </p>
-
 ---
 
 # 👋 Welcome
