@@ -1,43 +1,43 @@
 # 🛡 Insurance Claims & Policy Analytics
 
-A professional Power BI analytics project designed to evaluate insurance claims behavior, policy distribution, customer coverage trends, and operational claim performance.
+A professional Power BI analytics project designed to evaluate insurance claims performance, customer service feedback, policy distribution, and operational reporting efficiency.
 
-This dashboard helps insurance providers identify claim patterns, improve policy planning, reduce operational inefficiencies, and support data-driven decision-making.
+This dashboard helps insurance organizations monitor claim activity, improve customer satisfaction, optimize policy operations, and support data-driven business decisions.
 
 ---
 
 # 📌 Business Objective
 
-Insurance organizations require visibility into policy coverage, claims activity, and customer behavior to optimize profitability and improve service quality.
+Insurance providers need visibility into claims behavior, customer feedback, and policy operations to improve service quality and strengthen profitability.
 
 This dashboard enables stakeholders to:
 
-- Monitor claims trends across customer segments  
-- Analyze policy distribution and coverage behavior  
-- Identify high claim categories and risk patterns  
-- Improve claim handling efficiency  
-- Support pricing and policy planning decisions  
-- Enhance operational reporting using analytics
+- Monitor claims and policy performance  
+- Analyze customer service feedback trends  
+- Identify operational inefficiencies  
+- Improve claim management processes  
+- Understand policy coverage patterns  
+- Support strategic decisions using analytics
 
 ---
 
 # 📊 Dashboard Coverage
 
-## Claims Performance Analytics
+## Claims & Operations Analytics
 
-- Claims volume analysis  
-- Claim category distribution  
-- Claim trends over time  
-- High-risk claim segment identification  
-- Customer claim behavior insights  
+- Insurance claims overview  
+- Claims activity trends  
+- Customer service performance  
+- Process monitoring insights  
+- Operational reporting metrics  
 
 ## Policy & Customer Analytics
 
-- Policy type distribution  
-- Customer demographic segmentation  
-- Coverage pattern analysis  
-- Premium vs claim relationship  
-- Regional policy insights  
+- Policy information summary  
+- Customer feedback analysis  
+- Coverage distribution insights  
+- Service quality indicators  
+- Customer experience trends  
 
 ---
 
@@ -45,19 +45,17 @@ This dashboard enables stakeholders to:
 
 ## Claims Insights
 
-- Certain policy categories generated higher claim frequency.  
-- Claim activity varied significantly across customer groups.  
-- Specific segments showed elevated operational risk.  
-- Seasonal or periodic claim trends supported forecasting.  
-- Faster identification of claim spikes improves planning.
+- Claims volume varied across categories and time periods.  
+- Operational reporting highlighted areas needing efficiency improvement.  
+- Better monitoring supports faster claim resolution.  
+- Trend analysis helps forecast future workload.
 
-## Policy Insights
+## Customer & Policy Insights
 
-- Coverage preferences differed across customer segments.  
-- Premium levels varied by policy category and risk profile.  
-- Customer demographics influenced claim behavior.  
-- Balanced policy mix supports long-term profitability.  
-- Data-driven pricing improves competitiveness.
+- Customer feedback revealed service improvement opportunities.  
+- Policy distribution varied across customer groups.  
+- Stronger customer experience can improve retention.  
+- Policy summary reporting supports faster management reviews.
 
 ---
 
@@ -68,7 +66,7 @@ This dashboard enables stakeholders to:
 - DAX  
 - Data Modeling  
 - Insurance Analytics  
-- Data Cleaning  
+- Customer Experience Analytics  
 - KPI Reporting  
 - Dashboard Design  
 - Business Storytelling  
@@ -78,33 +76,33 @@ This dashboard enables stakeholders to:
 
 # 📸 Dashboard Screenshots
 
-## 🛡 Claims Performance Dashboard
+## 📋 Customer Feedback Dashboard
 
 <p align="center">
-  <img src="screenshots/claims-performance-dashboard.jpg" width="900">
+  <img src="screenshots/customer-feedback-dashboard.jpg" width="900">
 </p>
 
-Provides a complete view of claims activity, trends, and customer claim behavior.
+Analyzes customer feedback trends, satisfaction patterns, and service improvement opportunities.
 
 ---
 
-## 📄 Policy Overview Dashboard
+## 🛡 Insurance Overview Dashboard
 
 <p align="center">
-  <img src="screenshots/policy-overview-dashboard.jpg" width="900">
+  <img src="screenshots/insurance-overview-dashboard.jpg" width="900">
 </p>
 
-Analyzes policy distribution, customer coverage preferences, and premium trends.
+Provides a complete view of claims performance, operations metrics, and business KPIs.
 
 ---
 
-## 📈 Risk & Trend Dashboard
+## 📄 Policy Information Summary
 
 <p align="center">
-  <img src="screenshots/risk-trend-dashboard.jpg" width="900">
+  <img src="screenshots/policy-information-summary.jpg" width="900">
 </p>
 
-Highlights risk segments, claim spikes, and business performance opportunities.
+Summarizes policy details, coverage information, and management reporting insights.
 
 ---
 
@@ -112,11 +110,11 @@ Highlights risk segments, claim spikes, and business performance opportunities.
 
 This dashboard helps insurance organizations:
 
-- Improve claims monitoring and control  
-- Detect high-risk customer segments  
-- Optimize policy pricing decisions  
-- Enhance claim processing efficiency  
-- Improve portfolio profitability  
+- Improve claims visibility and monitoring  
+- Enhance customer satisfaction initiatives  
+- Optimize policy operations  
+- Detect service bottlenecks quickly  
+- Improve management reporting quality  
 - Enable smarter strategic decisions
 
 ---
@@ -125,11 +123,11 @@ This dashboard helps insurance organizations:
 
 - Insurance analytics understanding  
 - KPI dashboard creation  
-- Claims trend analysis  
-- Customer segmentation skills  
+- Customer feedback analysis  
+- Operational reporting skills  
 - Executive reporting mindset  
 - Business storytelling with visuals  
-- Risk monitoring capability
+- Service improvement analytics
 
 ---
 
