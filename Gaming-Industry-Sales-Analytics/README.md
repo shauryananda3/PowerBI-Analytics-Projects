@@ -1,6 +1,6 @@
 # 🎮 Gaming Industry Sales Analytics
 
-A professional Power BI analytics project designed to evaluate video game sales performance across genres, regions, platforms, and yearly market trends.
+A professional Power BI analytics project designed to evaluate video game sales performance across genres, regions, and yearly market trends.
 
 This dashboard helps gaming companies, publishers, and analysts understand consumer demand, regional preferences, and high-performing genres to support strategic business decisions.
 
@@ -13,7 +13,7 @@ Gaming businesses require visibility into sales trends, regional demand, and gen
 This dashboard enables stakeholders to:
 
 - Analyze game sales by genre and region  
-- Compare North America, Europe, Japan, and Global sales trends  
+- Compare North America, Europe, and global sales trends  
 - Identify top-performing gaming categories  
 - Evaluate yearly sales movement across genres  
 - Understand regional customer preferences  
@@ -29,15 +29,15 @@ This dashboard enables stakeholders to:
 - Regional sales comparison  
 - Genre-wise revenue contribution  
 - Yearly sales trend analysis  
-- Platform / market performance insights  
+- Market performance insights  
 
 ## Market Insights
 
 - North America demand trends  
 - Europe sales movement  
-- Japan genre preferences  
-- Other regional contribution  
+- Global sales summary  
 - Cross-market genre comparison  
+- Historical category performance  
 
 ---
 
@@ -45,7 +45,7 @@ This dashboard enables stakeholders to:
 
 ## Sales Insights
 
-- Action and Sports categories showed strong global demand.  
+- Action and Sports categories showed strong demand.  
 - Regional preferences varied significantly by market.  
 - Some genres consistently outperformed others across years.  
 - Global sales were concentrated in select categories.  
@@ -54,10 +54,10 @@ This dashboard enables stakeholders to:
 ## Market Insights
 
 - North America remained a major revenue contributor.  
-- Japan showed stronger preference for specific genres.  
-- Europe delivered balanced cross-category performance.  
+- Europe delivered balanced category performance.  
+- Genre-focused launches improve revenue potential.  
 - Regional diversification supports growth strategy.  
-- Genre-focused launches improve revenue potential.
+- Data-backed insights improve portfolio planning.
 
 ---
 
@@ -78,43 +78,43 @@ This dashboard enables stakeholders to:
 
 # 📸 Dashboard Screenshots
 
-## 🌍 Global Genre Sales Dashboard
+## 🌍 Europe Genre Sales Dashboard
 
 <p align="center">
-  <img src="screenshots/global-genre-sales-dashboard.jpg" width="900">
+  <img src="screenshots/europe-genre-sales.jpg" width="900">
 </p>
 
-Provides a complete comparison of genre performance across major global markets.
+Analyzes top-performing game genres across the European market.
 
 ---
 
-## 🌎 Regional Market Dashboard
+## 🌎 North America Genre Sales Dashboard
 
 <p align="center">
-  <img src="screenshots/regional-market-dashboard.jpg" width="900">
+  <img src="screenshots/north-america-genre-sales.jpg" width="900">
 </p>
 
-Analyzes sales patterns across North America, Europe, Japan, and other regions.
+Highlights category demand and genre popularity across North America.
 
 ---
 
-## 📊 Genre Sales Data Summary
+## 📋 Global Sales Summary Table
 
 <p align="center">
-  <img src="screenshots/genre-sales-data-summary.jpg" width="900">
+  <img src="screenshots/global-sales-summary-table.jpg" width="900">
 </p>
 
-Summarizes yearly and regional sales contribution by game category.
+Summarizes regional and global sales contribution by genre and year.
 
 ---
 
-## 📈 Yearly Genre Trends Dashboard
+## 📈 Yearly Genre Sales Trends
 
 <p align="center">
-  <img src="screenshots/yearly-genre-trends-dashboard.jpg" width="900">
+  <img src="screenshots/yearly-genre-sales-trends.jpg" width="900">
 </p>
 
-Tracks historical sales movement across major gaming genres.
+Tracks historical sales movement across major gaming categories.
 
 ---
 
@@ -123,10 +123,10 @@ Tracks historical sales movement across major gaming genres.
 This dashboard helps gaming businesses:
 
 - Improve game launch planning  
-- Identify profitable genres and regions  
-- Understand customer market preferences  
+- Identify profitable genres and markets  
+- Understand regional customer preferences  
 - Optimize portfolio strategy  
-- Support global expansion decisions  
+- Support expansion decisions  
 - Enable data-driven revenue planning
 
 ---
