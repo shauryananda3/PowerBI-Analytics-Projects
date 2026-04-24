@@ -2,21 +2,21 @@
 
 A professional Power BI analytics project designed to evaluate real estate pricing trends, regional sales performance, housing demand patterns, and property market behavior.
 
-This dashboard helps real estate businesses, investors, and market analysts understand pricing movements, identify demand hotspots, and support data-driven investment decisions.
+This dashboard helps investors, developers, and market analysts understand pricing movements, identify growth regions, and support data-driven property decisions.
 
 ---
 
 # 📌 Business Objective
 
-Real estate stakeholders require visibility into property prices, sales trends, and regional demand to optimize investment planning and market strategy.
+Real estate stakeholders need visibility into pricing trends, regional demand, and sales performance to improve investment planning and market strategy.
 
 This dashboard enables stakeholders to:
 
 - Analyze housing price movement across regions  
-- Monitor sales performance and property demand  
+- Monitor regional sales performance  
 - Compare offer price vs purchase price trends  
-- Identify high-performing markets and segments  
-- Evaluate property type behavior  
+- Identify high-growth property markets  
+- Evaluate property type performance  
 - Support strategic investment decisions using analytics
 
 ---
@@ -25,19 +25,19 @@ This dashboard enables stakeholders to:
 
 ## Market Performance Analytics
 
-- Regional housing sales trends  
+- Housing market overview  
+- Regional sales trends  
 - Price growth by region  
-- Units sold performance  
-- Offer vs purchase price analysis  
-- Year-on-year sales movement  
+- Units sold analysis  
+- Offer vs purchase price comparison  
 
 ## Property Insights
 
-- House type comparison  
-- Average pricing by property type  
-- Sales by city / area / region  
-- Yield, interest, and inflation analysis  
-- Property segment trends  
+- Property type pricing comparison  
+- Sales by region / area / city  
+- Yield and market indicators  
+- House type demand patterns  
+- Segment trend analysis  
 
 ---
 
@@ -45,19 +45,19 @@ This dashboard enables stakeholders to:
 
 ## Market Insights
 
-- Certain regions consistently outperformed others in pricing growth.  
+- Certain regions consistently outperformed others in price growth.  
 - Sales demand was concentrated in select markets.  
 - Offer prices closely aligned with purchase prices in active areas.  
-- Some sales types showed stronger growth momentum.  
-- Regional trends supported targeted investment planning.
+- Regional trends supported targeted investment planning.  
+- Market movement highlighted strong growth opportunities.
 
 ## Property Insights
 
-- Property type significantly influenced average pricing levels.  
-- Yield and interest indicators impacted market attractiveness.  
-- Urban areas showed stronger transaction activity.  
-- Segment analysis supports portfolio diversification decisions.  
-- Data-backed insights improve timing of investments.
+- Property type significantly influenced pricing levels.  
+- Urban regions showed stronger transaction activity.  
+- Segment analysis supported diversified investments.  
+- Yield indicators impacted market attractiveness.  
+- Data-backed insights improved buying strategy.
 
 ---
 
@@ -84,27 +84,27 @@ This dashboard enables stakeholders to:
   <img src="screenshots/housing-market-overview.jpg" width="900">
 </p>
 
-Provides a complete view of market pricing trends, units sold, and regional sales growth.
+Provides a complete view of market pricing trends, units sold, and housing demand movement.
 
 ---
 
-## 📈 Sales Performance Dashboard
+## 🏘 Property Type Price Analysis
 
 <p align="center">
-  <img src="screenshots/sales-performance-dashboard.jpg" width="900">
+  <img src="screenshots/property-type-price-analysis.jpg" width="900">
 </p>
 
-Analyzes regional sales performance, top segments, and average property pricing.
+Compares property categories using pricing, market indicators, and performance trends.
 
 ---
 
-## 🏘 Property Type Analytics
+## 📈 Regional Sales Performance
 
 <p align="center">
-  <img src="screenshots/property-type-analytics.jpg" width="900">
+  <img src="screenshots/regional-sales-performance.jpg" width="900">
 </p>
 
-Compares house types using pricing, yield, inflation, and market indicators.
+Analyzes regional sales contribution, top markets, and pricing behavior.
 
 ---
 
