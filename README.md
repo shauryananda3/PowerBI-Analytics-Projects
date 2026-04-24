@@ -1,98 +1,48 @@
-# 🚀 Power BI Analytics Portfolio
+# 🚀 Power BI Dashboard Portfolio
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboarding-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Projects-11-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Business%20Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Portfolio-11%20Projects-0A66C2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20to-Data%20Roles-success?style=for-the-badge">
 </p>
 
 <p align="center">
-  <b>Shaurya Nanda | Analytics & AI Professional</b>
+  <b>Shaurya Nanda | Business Analyst → Data Analyst</b>
 </p>
 
 ---
 
 # 👋 Welcome
 
-Welcome to my curated **Power BI Analytics Portfolio** featuring business-focused dashboard projects built using real-world datasets across multiple industries.
+This repository showcases my **Power BI project portfolio** built around real business scenarios across diverse industries.
 
-This repository demonstrates my ability to transform raw data into executive-ready dashboards, KPI reports, and actionable insights using Power BI.
+Each dashboard demonstrates the ability to translate raw data into business insights, interactive reports, and executive-ready decision support solutions.
 
----
+Industries covered include:
 
-# 💼 About Me
-
-I come from a Business Analysis background with experience in transformation,stakeholder management, and process improvement.
-
-I am currently focused on transitioning into full-time roles in:
-
-- Data Analytics  
-- Business Intelligence  
-- Reporting & Insights  
-- Product Analytics  
-- AI-Powered Analytics
-
----
+- Healthcare  
+- Finance  
+- Insurance  
+- Retail  
+- Consumer Technology  
+- FinTech  
+- Real Estate  
+- Supply Chain  
+- Sports  
+- Gaming  
+- Wellness Analytics
 
 ---
 
-# 📁 Featured Projects
+# 💼 My Background
 
-| Project Name | Domain | Highlights |
-|-------------|--------|------------|
-| 🏥 US Healthcare Analytics | Healthcare | Hospital KPIs, patient outcomes |
-| 🛡 Insurance Claims Analytics | Insurance | Claims trends & policy metrics |
-| 💳 Loan Risk & Default Analytics | Finance | Credit risk & borrower behavior |
-| 🛍 Retail Sales Analytics | Retail | Revenue, profit & product trends |
-| 📱 Smartphone Market Analytics | Consumer Tech | Pricing, ratings & market share |
-| 💸 UPI Payments Analytics | FinTech | Digital transactions & usage trends |
-| 🏠 Housing Market Analytics | Real Estate | Property prices & demand |
-| 🎮 Gaming Sales Analytics | Entertainment | Genre & regional sales |
-| 🏏 Cricket Analytics | Sports | Batting, bowling & fielding KPIs |
-| 🧠 Mental Wellness Analytics | Healthcare | Behavioral insights & wellness trends |
-| 📦 Inventory Analytics | Operations | Demand, supply & profitability |
+I have professional experience in Business Analysis, transformation initiatives, stakeholder management, process optimization, and reporting.
 
----
+I am now focused on transitioning into analytics-focused opportunities where I can combine business understanding with technical data skills.
 
-# 🛠 Tools & Skills Demonstrated
+### Career Interests
 
-### Technical Skills
-
-- Power BI  
-- DAX  
-- Power Query  
-- Data Modeling  
-- Excel  
-- Data Cleaning  
-
-### Business Skills
-
-- KPI Reporting  
-- Dashboard Storytelling  
-- Trend Analysis  
-- Stakeholder Reporting  
-- Decision Support Analytics  
-- Executive Presentation Thinking
-
----
-
-# 📈 What This Portfolio Demonstrates
-
-✅ Problem Solving Through Data  
-✅ Multi-Industry Business Understanding  
-✅ Dashboard UX & Visual Design  
-✅ Insight Generation for Decision Makers  
-✅ Analytical Thinking with Business Context  
-✅ Recruiter-Ready Project Documentation
-
----
-
-# 🎯 Career Goal
-
-Actively seeking opportunities in:
-
-- Data Analyst
-- Business Analyst  
+- Data Analyst  
 - Business Intelligence Analyst  
 - Reporting Analyst  
 - Product Analyst  
@@ -100,25 +50,74 @@ Actively seeking opportunities in:
 
 ---
 
+# 📁 Power BI Project Showcase
+
+| No. | Project | Domain | Business Value |
+|----|---------|--------|----------------|
+| 1 | 🏥 US Healthcare Performance Analytics | Healthcare | Operational KPIs & patient outcomes |
+| 2 | 💳 Loan Risk & Default Analytics | Finance | Credit risk monitoring |
+| 3 | 🛡 Insurance Claims & Policy Analytics | Insurance | Claims trends & service insights |
+| 4 | 🛍 Retail Sales & Profitability Analytics | Retail | Revenue growth & margin analysis |
+| 5 | 📱 Smartphone Market Intelligence Analytics | Consumer Tech | Pricing & competitor benchmarking |
+| 6 | 💸 UPI Digital Payments Analytics | FinTech | Payment behavior & transactions |
+| 7 | 🏠 Housing Market Trends Analytics | Real Estate | Demand, pricing & market movement |
+| 8 | 🎮 Gaming Industry Sales Analytics | Entertainment | Genre and regional sales trends |
+| 9 | 🏏 Cricket Performance Analytics | Sports | Batting, bowling & fielding metrics |
+|10 | 🧠 Mental Health & Wellness Analytics | Healthcare | Wellness behavior & symptom insights |
+|11 | 📦 Inventory & Supply Chain Analytics | Operations | Demand planning & profitability |
+
+---
+
+# 🛠 Technical Toolkit
+
+### Data & BI Tools
+
+- Power BI  
+- Power Query  
+- DAX  
+- Excel  
+- Data Modeling  
+
+### Analytics Strengths
+
+- Dashboard Design  
+- KPI Reporting  
+- Trend Analysis  
+- Insight Storytelling  
+- Executive Reporting  
+- Business Problem Solving
+
+---
+
+# 📈 What Recruiters Will Find Here
+
+✅ End-to-end portfolio projects  
+✅ Real business use cases  
+✅ Strong visual communication skills  
+✅ Multi-domain experience through analytics  
+✅ Consistent documentation and presentation  
+✅ Readiness for modern analyst roles
+
+---
+
 # 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/shaurya-nanda/  
 - 🌍 Portfolio Website: https://shauryananda3.github.io/  
-- 💻 GitHub: https://github.com/shauryananda3  
+- 💻 GitHub: https://github.com/shauryananda3
 
 ---
 
-# ⭐ If You Like This Portfolio
+# ⭐ Thank You for Visiting
 
-Please consider starring this repository.  
-It helps showcase my work and supports my analytics journey.
+If you found this portfolio useful, feel free to star the repository.
 
 ---
 
-# 🚀 Expanding Portfolio Soon
+# 🚀 Next Portfolio Expansions
 
 - Tableau Dashboards  
 - SQL Case Studies  
 - Python Analytics Projects  
 - Machine Learning Projects  
-- Generative AI & Agentic AI Projects
+- Generative AI & Agentic AI Solutions
