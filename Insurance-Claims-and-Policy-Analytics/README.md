@@ -76,16 +76,6 @@ This dashboard enables stakeholders to:
 
 # 📸 Dashboard Screenshots
 
-## 📋 Customer Feedback Dashboard
-
-<p align="center">
-  <img src="screenshots/customer-feedback-dashboard.jpg" width="900">
-</p>
-
-Analyzes customer feedback trends, satisfaction patterns, and service improvement opportunities.
-
----
-
 ## 🛡 Insurance Overview Dashboard
 
 <p align="center">
@@ -104,6 +94,17 @@ Provides a complete view of claims performance, operations metrics, and business
 
 Summarizes policy details, coverage information, and management reporting insights.
 
+---
+
+## 📋 Customer Feedback Dashboard
+
+<p align="center">
+  <img src="screenshots/customer-feedback-dashboard.jpg" width="900">
+</p>
+
+Analyzes customer feedback trends, satisfaction patterns, and service improvement opportunities.
+
+---
 ---
 
 # 🎯 Business Impact
