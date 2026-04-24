@@ -1,159 +1,142 @@
-# 🛡️ Insurance Claims, Customer Insights & Policy Performance Analytics
+# 🛡 Insurance Claims & Policy Analytics
 
-A professional Power BI analytics project designed to evaluate insurance policy performance, claims trends, customer satisfaction, premium collections, and operational efficiency.
+A professional Power BI analytics project designed to evaluate insurance claims behavior, policy distribution, customer coverage trends, and operational claim performance.
 
-This dashboard helps insurance companies improve claims management, monitor policy health, understand customer sentiment, and optimize decision-making through data-driven insights.
+This dashboard helps insurance providers identify claim patterns, improve policy planning, reduce operational inefficiencies, and support data-driven decision-making.
 
 ---
 
 # 📌 Business Objective
 
-Insurance organizations need strong visibility into policy performance, claims activity, and customer experience.
+Insurance organizations require visibility into policy coverage, claims activity, and customer behavior to optimize profitability and improve service quality.
 
-This report enables stakeholders to:
+This dashboard enables stakeholders to:
 
-- Monitor premium, coverage, and claim amounts
-- Analyze active vs inactive policies
-- Evaluate claim settlement trends
-- Review customer demographics
-- Track policy-level operational data
-- Understand customer feedback sentiment
-- Improve claims turnaround and service quality
+- Monitor claims trends across customer segments  
+- Analyze policy distribution and coverage behavior  
+- Identify high claim categories and risk patterns  
+- Improve claim handling efficiency  
+- Support pricing and policy planning decisions  
+- Enhance operational reporting using analytics
 
 ---
 
-# 📊 KPIs Tracked
+# 📊 Dashboard Coverage
 
-## Financial Metrics
+## Claims Performance Analytics
 
-- Premium Amount
-- Coverage Amount
-- Claim Amount
+- Claims volume analysis  
+- Claim category distribution  
+- Claim trends over time  
+- High-risk claim segment identification  
+- Customer claim behavior insights  
 
-## Policy Metrics
+## Policy & Customer Analytics
 
-- Active vs Inactive Policies
-- Premium Amount by Policy Type
-- Policy Details by Customer & Claim Number
-- Policy Start Date / End Date Analysis
-
-## Claims Metrics
-
-- Number of Claims by Claim Status
-- Claim Amount by Age Group
-- Pending / Rejected / Settled Claims by Policy Type
-
-## Customer Metrics
-
-- Gender Distribution
-- Customer Feedback Sentiment Score
-- Number of Customers by Feedback Category
-- Text Feedback Analysis (Word Cloud)
+- Policy type distribution  
+- Customer demographic segmentation  
+- Coverage pattern analysis  
+- Premium vs claim relationship  
+- Regional policy insights  
 
 ---
 
 # 🔍 Key Insights
 
-## Insurance Performance Insights
-
-- Active policies exceeded inactive policies, indicating healthy retention.
-- Travel policies generated the highest premium contribution.
-- Coverage value significantly exceeded claim payouts.
-- Claim amounts remained concentrated in select age groups.
-
 ## Claims Insights
 
-- Rejected claims represented the largest share of claim statuses.
-- Settled claims formed a strong operational portion.
-- Pending claims indicate scope for turnaround improvement.
-- Claim performance varied across policy categories.
+- Certain policy categories generated higher claim frequency.  
+- Claim activity varied significantly across customer groups.  
+- Specific segments showed elevated operational risk.  
+- Seasonal or periodic claim trends supported forecasting.  
+- Faster identification of claim spikes improves planning.
 
-## Customer Insights
+## Policy Insights
 
-- Male and female customer base was nearly balanced.
-- Most customers rated service as Good or Excellent.
-- Needs Improvement feedback was limited but actionable.
-- Frequent themes included claims process, service quality, policy options, and support.
+- Coverage preferences differed across customer segments.  
+- Premium levels varied by policy category and risk profile.  
+- Customer demographics influenced claim behavior.  
+- Balanced policy mix supports long-term profitability.  
+- Data-driven pricing improves competitiveness.
 
 ---
 
 # 🛠 Tools & Skills Used
 
-- Power BI
-- Power Query
-- DAX
-- Data Modeling
-- Data Cleaning
-- Claims Analytics
-- Customer Analytics
-- Sentiment Analysis
-- Dashboard Design
-- Executive Reporting
+- Power BI  
+- Power Query  
+- DAX  
+- Data Modeling  
+- Insurance Analytics  
+- Data Cleaning  
+- KPI Reporting  
+- Dashboard Design  
+- Business Storytelling  
+- Trend Analysis  
 
 ---
 
 # 📸 Dashboard Screenshots
 
-## 🏢 Insurance Overview Dashboard
+## 🛡 Claims Performance Dashboard
 
 <p align="center">
-  <img src="screenshots/insurance-overview-dashboard.jpg" width="900">
+  <img src="screenshots/claims-performance-dashboard.jpg" width="900">
 </p>
 
-Tracks premium revenue, coverage value, claims payout, policy activity, and claim status trends.
+Provides a complete view of claims activity, trends, and customer claim behavior.
 
 ---
 
-## 📄 Policy Information Summary
+## 📄 Policy Overview Dashboard
 
 <p align="center">
-  <img src="screenshots/policy-information-summary.jpg" width="900">
+  <img src="screenshots/policy-overview-dashboard.jpg" width="900">
 </p>
 
-Detailed operational view of policy records, customer profiles, premium values, claim numbers, and policy timelines.
+Analyzes policy distribution, customer coverage preferences, and premium trends.
 
 ---
 
-## 😊 Customer Feedback Dashboard
+## 📈 Risk & Trend Dashboard
 
 <p align="center">
-  <img src="screenshots/customer-feedback-dashboard.jpg" width="900">
+  <img src="screenshots/risk-trend-dashboard.jpg" width="900">
 </p>
 
-Analyzes sentiment score, customer comments, service feedback, and satisfaction categories.
+Highlights risk segments, claim spikes, and business performance opportunities.
 
 ---
 
 # 🎯 Business Impact
 
-This dashboard helps insurance companies:
+This dashboard helps insurance organizations:
 
-- Improve claims settlement efficiency
-- Reduce pending claim backlogs
-- Monitor profitable policy segments
-- Increase customer retention
-- Improve service quality using feedback analytics
-- Detect operational bottlenecks
-- Support management reporting and planning
+- Improve claims monitoring and control  
+- Detect high-risk customer segments  
+- Optimize policy pricing decisions  
+- Enhance claim processing efficiency  
+- Improve portfolio profitability  
+- Enable smarter strategic decisions
 
 ---
 
 # 🚀 What This Project Demonstrates
 
-- Insurance analytics understanding
-- Claims operations reporting
-- Customer experience analytics
-- Multi-page Power BI dashboarding
-- Business storytelling with visuals
-- Executive KPI reporting
-- Cross-functional business intelligence
+- Insurance analytics understanding  
+- KPI dashboard creation  
+- Claims trend analysis  
+- Customer segmentation skills  
+- Executive reporting mindset  
+- Business storytelling with visuals  
+- Risk monitoring capability
 
 ---
 
 # 🔗 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/shaurya-nanda/
-- Portfolio: https://shauryananda3.github.io/
+- LinkedIn: https://www.linkedin.com/in/shaurya-nanda/  
+- Portfolio: https://shauryananda3.github.io/  
 - GitHub: https://github.com/shauryananda3
 
 ---
