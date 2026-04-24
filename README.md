@@ -1,100 +1,124 @@
-# 📊 Power BI Analytics Portfolio  
-### Shaurya Nanda | Analytics & AI Professional  
-### Available for Data Analyst / BI Roles  
+# 🚀 Power BI Analytics Portfolio
 
-Welcome to my Power BI project portfolio featuring real-world analytics use cases across multiple industries. This repository demonstrates hands-on expertise in business intelligence, KPI storytelling, dashboard design, data modeling, and decision-support analytics using Power BI.
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboarding-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Projects-11-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-success?style=for-the-badge">
+</p>
 
----
-
-## 🚀 About This Repository
-
-This portfolio contains business-focused Power BI dashboards built to solve real-world problems in healthcare, finance, retail, digital payments, consumer markets, operations, and sports analytics.
-
-Each project reflects practical business scenarios with clean dashboard design, data storytelling, and actionable insights.
+<p align="center">
+  <b>Shaurya Nanda | Analytics & AI Professional</b>
+</p>
 
 ---
 
-## 🛠️ Tools & Skills
+# 👋 Welcome
+
+Welcome to my curated **Power BI Analytics Portfolio** featuring business-focused dashboard projects built using real-world datasets across multiple industries.
+
+This repository demonstrates my ability to transform raw data into executive-ready dashboards, KPI reports, and actionable insights using Power BI.
+
+---
+
+# 💼 About Me
+
+I come from a Business Analysis background with experience in transformation,stakeholder management, and process improvement.
+
+I am currently focused on transitioning into full-time roles in:
+
+- Data Analytics  
+- Business Intelligence  
+- Reporting & Insights  
+- Product Analytics  
+- AI-Powered Analytics
+
+---
+
+---
+
+# 📁 Featured Projects
+
+| Project Name | Domain | Highlights |
+|-------------|--------|------------|
+| 🏥 US Healthcare Analytics | Healthcare | Hospital KPIs, patient outcomes |
+| 🛡 Insurance Claims Analytics | Insurance | Claims trends & policy metrics |
+| 💳 Loan Risk & Default Analytics | Finance | Credit risk & borrower behavior |
+| 🛍 Retail Sales Analytics | Retail | Revenue, profit & product trends |
+| 📱 Smartphone Market Analytics | Consumer Tech | Pricing, ratings & market share |
+| 💸 UPI Payments Analytics | FinTech | Digital transactions & usage trends |
+| 🏠 Housing Market Analytics | Real Estate | Property prices & demand |
+| 🎮 Gaming Sales Analytics | Entertainment | Genre & regional sales |
+| 🏏 Cricket Analytics | Sports | Batting, bowling & fielding KPIs |
+| 🧠 Mental Wellness Analytics | Healthcare | Behavioral insights & wellness trends |
+| 📦 Inventory Analytics | Operations | Demand, supply & profitability |
+
+---
+
+# 🛠 Tools & Skills Demonstrated
+
+### Technical Skills
 
 - Power BI  
 - DAX  
 - Power Query  
+- Data Modeling  
 - Excel  
-- SQL  
-- Data Visualization  
+- Data Cleaning  
+
+### Business Skills
+
 - KPI Reporting  
 - Dashboard Storytelling  
-- Business Analysis  
-- Analytical Thinking  
+- Trend Analysis  
+- Stakeholder Reporting  
+- Decision Support Analytics  
+- Executive Presentation Thinking
 
 ---
 
-# 📁 Project Portfolio
+# 📈 What This Portfolio Demonstrates
 
-| Project Name | Domain | Key Focus |
-|-------------|--------|-----------|
-| US Healthcare Performance Analytics | Healthcare | Hospital KPIs, admissions, readmissions |
-| Loan Risk and Default Analytics | BFSI | Credit risk, borrower behavior |
-| Insurance Claims and Policy Analytics | Insurance | Claims trends, policy insights |
-| UPI Digital Payments Analytics | FinTech | Transactions, user behavior |
-| Retail Sales and Profitability Analytics | Retail | Revenue, margin, product performance |
-| Smartphone Market Intelligence Analytics | Consumer Tech | Market share, pricing insights |
-| Fashion Retail Analytics | Fashion | Product sales, category performance |
-| Housing Market Analytics | Real Estate | Pricing, property demand trends |
-| Inventory Operations Analytics | Supply Chain | Stock movement, inventory efficiency |
-| ESPN Cricket Analytics | Sports | Player stats, team insights |
+✅ Problem Solving Through Data  
+✅ Multi-Industry Business Understanding  
+✅ Dashboard UX & Visual Design  
+✅ Insight Generation for Decision Makers  
+✅ Analytical Thinking with Business Context  
+✅ Recruiter-Ready Project Documentation
 
 ---
 
-# 🌍 Industries Covered
+# 🎯 Career Goal
 
-- Healthcare  
-- Banking & Finance  
-- Insurance  
-- Retail  
-- Consumer Electronics  
-- Real Estate  
-- Supply Chain  
-- Sports Analytics  
-- Digital Payments  
+Actively seeking opportunities in:
 
----
-
-# 📈 Power BI Capabilities Demonstrated
-
-✅ Interactive Dashboards  
-✅ KPI Scorecards  
-✅ Executive Reporting  
-✅ Drill-down Analysis  
-✅ Forecasting Trends  
-✅ Comparative Benchmarking  
-✅ Business Recommendations  
-✅ Clean UI / UX Dashboard Design  
-
----
-
-# 💼 Why Recruiters Should View This Portfolio
-
-This repository reflects practical analytics execution beyond theory. It showcases the ability to convert raw data into meaningful business insights using visualization and structured thinking.
-
-Ideal for roles such as:
-
-- Data Analyst  
+- Data Analyst
+- Business Analyst  
 - Business Intelligence Analyst  
-- Power BI Developer  
 - Reporting Analyst  
 - Product Analyst  
+- Analytics Consultant
 
 ---
 
 # 🌐 Connect With Me
 
-- GitHub Portfolio: https://github.com/shauryananda3  
-- Tableau Public: https://public.tableau.com/app/profile/shaurya.nanda/vizzes  
-- LinkedIn: https://www.linkedin.com/in/shaurya-nanda/ 
+- 💼 LinkedIn: https://www.linkedin.com/in/shaurya-nanda/  
+- 🌍 Portfolio Website: https://shauryananda3.github.io/  
+- 💻 GitHub: https://github.com/shauryananda3  
 
 ---
 
-# ⭐ If You Like This Repository
+# ⭐ If You Like This Portfolio
 
-Feel free to star the repo and connect with me.
+Please consider starring this repository.  
+It helps showcase my work and supports my analytics journey.
+
+---
+
+# 🚀 Expanding Portfolio Soon
+
+- Tableau Dashboards  
+- SQL Case Studies  
+- Python Analytics Projects  
+- Machine Learning Projects  
+- Generative AI & Agentic AI Projects
