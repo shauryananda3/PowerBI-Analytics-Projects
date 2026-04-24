@@ -1,71 +1,63 @@
 # 💳 Loan Risk & Default Analytics
 
-A professional Power BI analytics project designed to evaluate borrower behavior, credit risk patterns, and loan default trends using customer financial and demographic indicators.
+A professional Power BI analytics project designed to evaluate borrower behavior, financial risk exposure, and loan default trends using customer demographics, income, and credit-related indicators.
 
-This report helps lenders, banks, and financial institutions identify high-risk applicants, monitor portfolio health, and support smarter lending decisions through data-driven insights.
+This dashboard helps lenders and financial institutions identify high-risk borrowers, optimize approvals, and improve portfolio performance through data-driven decision-making.
 
 ---
 
 # 📌 Business Objective
 
-Financial institutions need visibility into borrower profiles and repayment risk to minimize defaults and optimize lending performance.
+Banks and lending institutions need visibility into borrower repayment behavior and portfolio risk to reduce defaults and improve lending quality.
 
 This dashboard enables stakeholders to:
 
 - Identify high-risk borrower segments  
-- Monitor default patterns across demographics  
-- Analyze loan distribution by income and employment type  
-- Evaluate creditworthiness indicators  
-- Improve lending strategies and approval decisions  
-- Support portfolio risk management using analytics
+- Analyze default trends across customer profiles  
+- Monitor portfolio health and repayment performance  
+- Improve loan approval decision-making  
+- Evaluate applicant demographics and financial strength  
+- Support smarter lending strategies through analytics
 
 ---
 
-# 📊 KPIs Tracked
+# 📊 Dashboard Coverage
 
-## Loan Portfolio Metrics
+## Loan Portfolio Analytics
 
-- Total Loan Applicants  
-- Total Approved Loans  
-- Total Defaulted Accounts  
-- Default Rate Percentage  
-- Average Loan Amount  
-- Average Annual Income  
+- Loan applications overview  
+- Loan default distribution  
+- Borrower income segmentation  
+- Credit behavior patterns  
+- Approval vs risk analysis  
 
-## Borrower Risk Metrics
+## Borrower Risk Insights
 
-- Default Rate by Employment Type  
-- Default Rate by Home Ownership  
-- Default Rate by Marital Status  
-- Default Rate by Education Level  
-- Loan Status by Purpose Category  
-
-## Trend & Segment Metrics
-
-- Loans by Age Group  
-- Loans by Income Band  
-- Loans by Credit History  
-- Defaults by Region / Segment  
+- Applicant demographic trends  
+- Income vs default analysis  
+- Risk metrics by customer type  
+- Borrower segmentation analysis  
+- Financial profile comparison  
 
 ---
 
 # 🔍 Key Insights
 
-## Borrower Insights
+## Borrower Trends
 
-- Borrowers with lower income levels showed higher default probability.  
-- Certain employment categories demonstrated stronger repayment behavior.  
-- Customers with stable housing ownership had lower default rates.  
-- Education level and marital status showed noticeable lending patterns.  
-- Some loan purposes carried higher repayment risk than others.
+- Lower income segments showed higher default probability.  
+- Certain applicant profiles carried stronger repayment behavior.  
+- Demographic patterns influenced approval and risk outcomes.  
+- Borrowers with healthier financial indicators had lower default risk.  
+- Segment-based analysis supports targeted lending decisions.
 
 ## Portfolio Insights
 
-- Default rates were concentrated within specific borrower segments.  
-- Mid-sized loan amounts represented the largest share of the portfolio.  
-- Younger borrower groups showed higher application volumes.  
-- Strong credit history correlated with lower defaults.  
-- Risk segmentation supports better underwriting strategies.
+- Default concentration existed across select borrower groups.  
+- Income and financial strength impacted portfolio quality.  
+- Risk segmentation improves underwriting efficiency.  
+- Better approvals can reduce future delinquency exposure.  
+- Credit-focused analytics strengthens lending performance.
 
 ---
 
@@ -80,29 +72,39 @@ This dashboard enables stakeholders to:
 - Risk Visualization  
 - Dashboard Design  
 - Business Storytelling  
-- KPI Reporting
+- KPI Reporting  
 
 ---
 
 # 📸 Dashboard Screenshots
 
-## 💳 Loan Portfolio Overview Dashboard
+## 💳 Loan Overview Dashboard
 
 <p align="center">
-  <img src="screenshots/loan-portfolio-overview.jpg" width="900">
+  <img src="screenshots/loan-overview-dashboard.jpg" width="900">
 </p>
 
-Provides a complete view of loan applications, approvals, defaults, and borrower segments.
+Provides a complete view of loan applications, borrower segments, approvals, and default distribution.
 
 ---
 
-## 📈 Credit Risk Analysis Dashboard
+## 📉 Financial Risk Metrics Dashboard
 
 <p align="center">
-  <img src="screenshots/credit-risk-analysis.jpg" width="900">
+  <img src="screenshots/financial-risk-metrics-dashboard.jpg" width="900">
 </p>
 
-Highlights default trends across customer profiles, income groups, and employment categories.
+Highlights borrower risk trends, portfolio financial indicators, and lending performance patterns.
+
+---
+
+## 👥 Applicant Demographics Dashboard
+
+<p align="center">
+  <img src="screenshots/applicant-demographics-dashboard.jpg" width="900">
+</p>
+
+Analyzes customer demographics, income levels, and applicant segment behavior.
 
 ---
 
@@ -110,12 +112,12 @@ Highlights default trends across customer profiles, income groups, and employmen
 
 This dashboard helps financial institutions:
 
-- Reduce loan default risk through better screening  
-- Improve lending approval quality  
-- Segment customers based on repayment probability  
-- Optimize portfolio profitability  
-- Strengthen underwriting decisions with analytics  
-- Monitor portfolio health proactively
+- Reduce default risk through smarter approvals  
+- Improve borrower screening processes  
+- Segment customers by financial behavior  
+- Strengthen underwriting decisions  
+- Monitor lending portfolio health  
+- Use analytics for strategic growth
 
 ---
 
@@ -125,7 +127,7 @@ This dashboard helps financial institutions:
 - Credit risk reporting skills  
 - KPI dashboard creation  
 - Customer segmentation analysis  
-- Trend analysis for lending decisions  
+- Lending portfolio insights  
 - Executive reporting mindset  
 - Business storytelling with data
 
@@ -133,8 +135,8 @@ This dashboard helps financial institutions:
 
 # 🔗 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/shaurya-nanda/
-- Portfolio: https://shauryananda3.github.io/
+- LinkedIn: https://www.linkedin.com/in/shaurya-nanda/  
+- Portfolio: https://shauryananda3.github.io/  
 - GitHub: https://github.com/shauryananda3
 
 ---
