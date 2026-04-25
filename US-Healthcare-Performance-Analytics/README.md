@@ -1,23 +1,23 @@
-# 🏥 US Healthcare Hospital Performance & Patient Outcome Analytics
+# 🏥 US Healthcare Performance Analytics
 
-A professional Power BI analytics project designed to evaluate hospital-level operational efficiency and patient outcome performance using healthcare KPIs such as infections, readmissions, admissions, and mortality trends.
+A professional Power BI analytics project designed to evaluate hospital operations, patient outcomes, and healthcare performance using clinical and operational datasets.
 
-This dashboard helps healthcare leaders benchmark facilities, monitor service quality, and support data-driven decisions for improving patient outcomes and operational excellence.
+This dashboard helps healthcare leaders, administrators, and analysts monitor service quality, benchmark facilities, and support data-driven planning to improve patient care and operational efficiency.
 
 ---
 
 # 📌 Business Objective
 
-Healthcare organizations require strong visibility into hospital performance metrics to improve care quality, optimize resources, and reduce operational inefficiencies.
+Healthcare organizations require visibility into hospital performance, patient outcomes, and operational trends to improve care delivery and optimize decision-making.
 
 This dashboard enables stakeholders to:
 
-- Compare hospital performance across facilities  
-- Monitor infections, readmissions, and mortality indicators  
-- Analyze yearly admission and healthcare demand trends  
-- Identify operational improvement opportunities  
-- Support capacity planning and decision-making  
-- Strengthen patient care quality through analytics
+- Analyze hospital-level healthcare KPIs  
+- Monitor admissions, infections, and readmissions  
+- Compare facility performance metrics  
+- Evaluate yearly healthcare trends  
+- Improve operational planning and resource allocation  
+- Support leadership decisions using analytics
 
 ---
 
@@ -25,39 +25,39 @@ This dashboard enables stakeholders to:
 
 ## Hospital Performance Analytics
 
-- Hospital-wise infection analysis  
-- Readmission comparison across facilities  
-- Admission volume by hospital  
-- Mortality trend benchmarking  
-- Facility performance evaluation  
+- Hospital-wise performance comparison  
+- Infection trend monitoring  
+- Readmission analysis  
+- Admissions performance tracking  
+- Mortality visibility reporting  
 
-## Yearly Healthcare Trends
+## Strategic Healthcare Insights
 
-- Admissions trend by year  
-- Infections trend over time  
-- Readmission movement analysis  
-- Mortality pattern tracking  
-- Long-term healthcare demand insights  
+- Yearly operational trend analysis  
+- Benchmarking across hospitals  
+- Capacity planning visibility  
+- Patient outcome monitoring  
+- Quality improvement insights  
 
 ---
 
 # 🔍 Key Insights
 
-## Hospital Insights
+## Operational Insights
 
-- Certain hospitals consistently reported higher infection counts.  
-- Readmissions varied significantly across facilities.  
-- High-volume hospitals required stronger operational planning.  
-- Mortality levels remained relatively stable with periodic fluctuations.  
-- Benchmarking highlighted targeted improvement opportunities.
+- Certain hospitals reported higher infection and readmission patterns.  
+- Admissions volume varied across facilities.  
+- Operational benchmarking identified improvement opportunities.  
+- Yearly demand trends supported planning visibility.  
+- Data transparency improved healthcare governance.
 
-## Trend Insights
+## Patient Outcome Insights
 
-- Infections declined initially before stabilizing.  
-- Readmissions peaked in select periods before improving.  
-- Admissions recovered after temporary slowdowns.  
-- Mortality increased during higher demand years.  
-- Trend analysis supports future planning and staffing.
+- Mortality trends remained stable with periodic variation.  
+- Readmission analysis highlighted care continuity gaps.  
+- Infection monitoring supports quality improvement programs.  
+- Facility comparisons improve accountability.  
+- Data-backed planning enhances patient outcomes.
 
 ---
 
@@ -69,10 +69,10 @@ This dashboard enables stakeholders to:
 - Data Modeling  
 - Healthcare Analytics  
 - Data Cleaning  
-- KPI Reporting  
 - Dashboard Design  
+- KPI Reporting  
 - Business Storytelling  
-- Trend Analysis  
+- Operational Analytics  
 
 ---
 
@@ -84,7 +84,7 @@ This dashboard enables stakeholders to:
   <img src="screenshots/hospital-performance-dashboard.jpg" width="900">
 </p>
 
-Analyzes hospital-level KPIs including infections, readmissions, admissions, and mortality across facilities.
+Compares hospitals using admissions, infections, readmissions, and mortality metrics.
 
 ---
 
@@ -94,7 +94,7 @@ Analyzes hospital-level KPIs including infections, readmissions, admissions, and
   <img src="screenshots/yearly-trends-dashboard.jpg" width="900">
 </p>
 
-Tracks yearly healthcare trends to support planning, benchmarking, and forecasting.
+Tracks annual healthcare performance patterns for planning and benchmarking.
 
 ---
 
@@ -102,12 +102,12 @@ Tracks yearly healthcare trends to support planning, benchmarking, and forecasti
 
 This dashboard helps healthcare organizations:
 
-- Detect hospitals needing performance intervention  
-- Compare service quality across facilities  
-- Improve resource allocation and staffing decisions  
-- Monitor healthcare demand changes over time  
-- Strengthen patient outcome strategies  
-- Enable data-driven executive decisions
+- Improve patient care quality  
+- Reduce readmission risk  
+- Benchmark hospitals effectively  
+- Strengthen planning and staffing decisions  
+- Monitor critical healthcare KPIs  
+- Enable data-driven leadership decisions
 
 ---
 
@@ -115,11 +115,11 @@ This dashboard helps healthcare organizations:
 
 - Healthcare analytics understanding  
 - KPI dashboard creation  
-- Multi-page Power BI reporting  
-- Benchmarking and trend analysis  
+- Operational performance reporting  
 - Executive reporting mindset  
 - Business storytelling with visuals  
-- Operational performance analysis
+- Trend analysis capability  
+- Strategic decision support
 
 ---
 

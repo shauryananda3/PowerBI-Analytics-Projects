@@ -1,197 +1,162 @@
-# 📱 Smartphone Market, Pricing & Product Feature Analytics Dashboard
+# 📱 Smartphone Market Intelligence Analytics
 
-A premium Power BI dashboard built to analyze global smartphone brands across product portfolio size, pricing strategy, hardware specifications, launch trends, and competitive positioning.
+A professional Power BI analytics project designed to evaluate smartphone pricing, product specifications, feature trends, and brand positioning using mobile market datasets.
 
-This project helps business leaders, product teams, and market analysts understand how smartphone brands compete on price, RAM, camera quality, processor variety, and product breadth.
-
-The report combines product intelligence with executive storytelling through a multi-page interactive dashboard.
+This dashboard helps product managers, market researchers, retailers, and business leaders understand competitive positioning, pricing strategy, and customer value trends in the smartphone industry.
 
 ---
 
 # 📌 Business Objective
 
-Smartphone manufacturers and market analysts require visibility into:
+Smartphone businesses require visibility into pricing trends, feature comparisons, and product positioning to optimize portfolio strategy and improve market competitiveness.
 
-- Brand portfolio size
-- Pricing comparison across companies
-- Feature-to-price competitiveness
-- Hardware specification trends
-- Camera and RAM evolution
-- Launch year portfolio analysis
-- Premium vs budget brand positioning
+This dashboard enables stakeholders to:
 
-This dashboard enables data-driven product and pricing strategy decisions.
-
----
-
-# 📊 Dashboard Pages
-
-## Page 1: Smartphones Overview
-
-Key insights covered:
-
-- Number of Models by Companies
-- RAM by Model Names
-- Distinct Processor Count by Models
-- Front Camera Resolution Trends
-- Back Camera Resolution Trends
+- Analyze smartphones by price and specifications  
+- Compare features across brands and models  
+- Identify value-for-money product segments  
+- Evaluate product catalog trends  
+- Support pricing and launch decisions  
+- Use analytics for market strategy planning
 
 ---
 
-## Page 2: Product Catalog Details
+# 📊 Dashboard Coverage
 
-Detailed product listing with:
+## Product Intelligence Analytics
 
-- Company Name
-- Model Name
-- Front Camera
-- Back Camera
+- Smartphone overview dashboard  
+- Product catalog comparison  
+- Feature-wise analysis  
+- Price segmentation insights  
+- Brand/model benchmarking  
 
----
+## Pricing Insights
 
-## Page 3: Price Analysis
-
-Commercial analytics covering:
-
-- Average Launch Price by Model
-- Average Launch Price by Company
-- Multi-currency comparison (USD, AED, INR, CNY, PKR)
-
----
-
-## Page 4: Features vs Price
-
-Product benchmarking page covering:
-
-- Weight
-- Processor
-- Screen Size
-- Battery Capacity
-- Front Camera
-- Back Camera
-- RAM filters
-- Price filters
+- Features vs price comparison  
+- Competitive positioning trends  
+- Executive summary reporting  
+- Premium vs budget segment analysis  
+- Market opportunity visibility  
 
 ---
 
-## Page 5: Executive Summary
+# 🔍 Key Insights
 
-Brand comparison table including:
+## Product Insights
 
-- Average Price (USD)
-- Average RAM (GB)
-- Average Weight (grams)
+- Higher-priced devices concentrated around premium features.  
+- Mid-range segments offered strong value propositions.  
+- Product specifications varied widely across models.  
+- Feature benchmarking improved positioning clarity.  
+- Catalog analysis supported portfolio optimization.
 
----
+## Market Insights
 
-# 📈 KPIs Tracked
-
-- Number of Models by Brand
-- Average Launch Price
-- Average RAM
-- Camera Resolution Mix
-- Processor Diversity
-- Battery Capacity Range
-- Average Device Weight
-- Feature-to-Price Positioning
-- Multi-currency Pricing
-
----
-
-# 🔍 Key Insights Generated
-
-- Oppo, Apple, Honor, and Samsung maintained large product portfolios.
-- Premium brands such as Apple and Samsung commanded higher average pricing.
-- Nokia showed unusually high average pricing in available dataset mix.
-- 32MP and 16MP front cameras appeared highly common across models.
-- 50MP back camera models dominated modern launches.
-- Brands balanced battery size, RAM, and pricing differently.
-- Budget-focused brands offered strong specifications at lower price points.
-
----
-
-# 💼 Business Impact
-
-This dashboard can help stakeholders:
-
-- Benchmark against competitors
-- Optimize product pricing
-- Plan future device launches
-- Improve product segmentation
-- Understand premium vs budget strategy
-- Track feature trends consumers value
-- Strengthen go-to-market planning
+- Price sensitivity creates multiple customer segments.  
+- Feature-led pricing drives premium positioning.  
+- Balanced specs improve competitiveness.  
+- Data-backed pricing supports launch strategy.  
+- Competitive analysis improves business decisions.
 
 ---
 
 # 🛠 Tools & Skills Used
 
-- Power BI
-- Power Query
-- DAX
-- Data Modeling
-- Product Analytics
-- Market Intelligence
-- Pricing Analytics
-- Competitive Benchmarking
-- Dashboard Storytelling
-- Data Visualization
+- Power BI  
+- Power Query  
+- DAX  
+- Data Modeling  
+- Product Analytics  
+- Market Intelligence  
+- Data Cleaning  
+- Dashboard Design  
+- KPI Reporting  
+- Business Storytelling  
 
 ---
 
-# 📷 Dashboard Screenshots
+# 📸 Dashboard Screenshots
 
-## Smartphones Overview
+## 📱 Smartphones Overview Dashboard
 
-![Overview](screenshots/smartphones-overview.jpg)
+<p align="center">
+  <img src="screenshots/smartphones-overview.jpg" width="900">
+</p>
 
----
-
-## Product Catalog
-
-![Catalog](screenshots/product-catalog.jpg)
+Provides a complete market overview of smartphone models, pricing, and specifications.
 
 ---
 
-## Price Analysis
+## 💰 Price Analysis Dashboard
 
-![Price Analysis](screenshots/price-analysis.jpg)
+<p align="center">
+  <img src="screenshots/price-analysis.jpg" width="900">
+</p>
 
----
-
-## Features vs Price
-
-![Features vs Price](screenshots/features-vs-price.jpg)
+Evaluates pricing segments, premium positioning, and value opportunities.
 
 ---
 
-## Executive Summary
+## ⚙️ Features vs Price Dashboard
 
-![Summary](screenshots/executive-summary.jpg)
+<p align="center">
+  <img src="screenshots/features-vs-price.jpg" width="900">
+</p>
 
----
-
-# 🎯 What This Project Demonstrates
-
-- Product analytics understanding
-- Market intelligence reporting
-- Pricing strategy analysis
-- Competitive benchmarking
-- Multi-page Power BI reporting
-- Executive dashboard storytelling
-- Consumer electronics domain analytics
+Compares device specifications against pricing across multiple models.
 
 ---
 
-# 🔗 Portfolio Links
+## 📋 Product Catalog Dashboard
 
-**GitHub Portfolio:**  
-https://github.com/shauryananda3
+<p align="center">
+  <img src="screenshots/product-catalog.jpg" width="900">
+</p>
 
-**Main Analytics Portfolio:**  
-https://github.com/shauryananda3/PowerBI-Analytics-Projects
+Summarizes available products, specifications, and portfolio coverage.
 
-**Personal Portfolio Website:**  
-https://shauryananda3.github.io/
+---
+
+## 📈 Executive Summary Dashboard
+
+<p align="center">
+  <img src="screenshots/executive-summary.jpg" width="900">
+</p>
+
+Presents high-level strategic insights for leadership decision-making.
+
+---
+
+# 🎯 Business Impact
+
+This dashboard helps businesses:
+
+- Improve smartphone pricing strategy  
+- Benchmark competitors effectively  
+- Optimize product portfolio decisions  
+- Identify market gaps and opportunities  
+- Support new product launches  
+- Enable data-driven market planning
+
+---
+
+# 🚀 What This Project Demonstrates
+
+- Market intelligence understanding  
+- KPI dashboard creation  
+- Product benchmarking capability  
+- Executive reporting mindset  
+- Business storytelling with visuals  
+- Competitive analytics skills  
+- Strategic pricing analysis
+
+---
+
+# 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/shaurya-nanda/  
+- Portfolio: https://shauryananda3.github.io/  
+- GitHub: https://github.com/shauryananda3
 
 ---
